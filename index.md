@@ -168,26 +168,26 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### 5 Protect routes
 <iframe src="https://player.vimeo.com/video/648647797" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-###
+### 1 Add user dynamically when create blog
 <iframe src="https://player.vimeo.com/video/648648600" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-###
+### 2 Validate Local storage user
+<iframe src="https://player.vimeo.com/video/648649047" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+### 3 Validate blog slug
+<iframe src="https://player.vimeo.com/video/648649458" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-###
+### 4 Update userinfo component
+<iframe src="https://player.vimeo.com/video/648649798" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+### 5 Show message if user is not valid
+<iframe src="https://player.vimeo.com/video/648649917" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-###
+### 6 Update Firebase setting to prevent console errors
+<iframe src="https://player.vimeo.com/video/648650109" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-
-###
-
-
-###
-
-
-###
-
+### 7 Form validation
+<iframe src="https://player.vimeo.com/video/648650143" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ###
 
