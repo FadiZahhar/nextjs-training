@@ -87,86 +87,86 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### 8 Read a document from Firestore collection
 <iframe src="https://player.vimeo.com/video/648634161" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-###
+### 1 Blog list and blog item components
+<iframe src="https://player.vimeo.com/video/648634427" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+### 2 Format date with momentjs
+<iframe src="https://player.vimeo.com/video/648634966" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-###
+### 3 Show a blog
+<iframe src="https://player.vimeo.com/video/648635230" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+### 4 SSR with express
+<iframe src="https://player.vimeo.com/video/648635450" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-###
+### 5 Read a blog from Firestore
+<iframe src="https://player.vimeo.com/video/648635904" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+### 6 NProgress
+<iframe src="https://player.vimeo.com/video/648636283" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-###
+### 7 Nextjs configuration
+<iframe src="https://player.vimeo.com/video/648636827" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+### 8 Show a blog continue
+<iframe src="https://player.vimeo.com/video/648637173" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-###
+### 9 Subscribe to blog content for realtime changes
+<iframe src="https://player.vimeo.com/video/648637475" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+### 10 Extracting blog to separate component
+<iframe src="https://player.vimeo.com/video/648637858" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-###
+### 11 Firebase users collection
+<iframe src="https://player.vimeo.com/video/648638298" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+### 12 User Avatar
+<iframe src="https://player.vimeo.com/video/648639107" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-###
+### 13 Create a new blog component
+<iframe src="https://player.vimeo.com/video/648639509" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+### 14 Create a new blog to Firestore
+<iframe src="https://player.vimeo.com/video/648640027" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-###
+### 15 Toggle edit and view blog
+<iframe src="https://player.vimeo.com/video/648641356" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+### 16 Fix the memory leak issue
+<iframe src="https://player.vimeo.com/video/648642033" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-###
+### 17 Edit a blog
+<iframe src="https://player.vimeo.com/video/648642132" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+### 18 Edit blog with re-base
+<iframe src="https://player.vimeo.com/video/648642900" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-###
+### 19 Blog edit confirmation
+<iframe src="https://player.vimeo.com/video/648643458" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+### 20 More refactoring
+<iframe src="https://player.vimeo.com/video/648644150" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-###
+### 21 Use re-base in home page
+<iframe src="https://player.vimeo.com/video/648644438" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+### 22 Title and meta tags
+<iframe src="https://player.vimeo.com/video/648644842" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-###
+### 1 Authenticate with Google
+<iframe src="https://player.vimeo.com/video/648645268" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+### 2 Authenticate with Facebook, Twitter and Github
+<iframe src="https://player.vimeo.com/video/648645807" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-###
+### 3 Auth Handler
+<iframe src="https://player.vimeo.com/video/648646216" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+### 4 Sign in and Sing out from the navigation bar
+<iframe src="https://player.vimeo.com/video/648646959" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-###
-
-
-###
-
-
-###
-
-
-###
-
-
-###
-
-
-###
-
-
-###
-
-
-###
-
-
-###
-
-
-###
-
-
-###
-
-
-###
-
-
-###
-
-
-###
-
+### 5 Protect routes
+<iframe src="https://player.vimeo.com/video/648647797" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ###
 
