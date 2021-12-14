@@ -63,29 +63,29 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### 7 Sticky footer
 <iframe src="https://player.vimeo.com/video/648562902" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-###
+### 1 What is Firebase
+<iframe src="https://player.vimeo.com/video/648562966" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+### 2 Add Firebase to project
+<iframe src="https://player.vimeo.com/video/648563058" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-###
+### 3 Dotenv
+<iframe src="https://player.vimeo.com/video/648565301" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+### 4 Optimise FirebaseFirestore
+<iframe src="https://player.vimeo.com/video/648567690" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-###
+### 5 Read data from Firestore
+<iframe src="https://player.vimeo.com/video/648568930" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+### 6 Subscribe to Firestore for realtime changes
+<iframe src="https://player.vimeo.com/video/648633180" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-###
+### 7 Refactor Firestore
+<iframe src="https://player.vimeo.com/video/648633938" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-
-###
-
-
-###
-
-
-###
-
-
-###
-
+### 8 Read a document from Firestore collection
+<iframe src="https://player.vimeo.com/video/648634161" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ###
 
