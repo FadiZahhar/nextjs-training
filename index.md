@@ -18,29 +18,29 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### 4 Server Side Rendering vs Client Side Rendering
 <iframe src="https://player.vimeo.com/video/648561127" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-###
+### 1 Whats is Nextjs
+<iframe src="https://player.vimeo.com/video/648561191" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+### 2 Hello Nextjs
+<iframe src="https://player.vimeo.com/video/648561211" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-###
+### 3 eslint and prettier
+<iframe src="https://player.vimeo.com/video/648561318" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+### 4 Static files
+<iframe src="https://player.vimeo.com/video/648561655" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-###
+### 5 Built-in CSS
+<iframe src="https://player.vimeo.com/video/648561796" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+### 6 Shared component - The navbar
+<iframe src="https://player.vimeo.com/video/648561884" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-###
+### 7 SASS and Bulma
+<iframe src="https://player.vimeo.com/video/648561997" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-
-###
-
-
-###
-
-
-###
-
-
-###
-
+### 8 Bulma continue
+<iframe src="https://player.vimeo.com/video/648562215" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ###
 
