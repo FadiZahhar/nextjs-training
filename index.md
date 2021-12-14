@@ -198,25 +198,25 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### 3 Update Firebase security rules and envexample file
 <iframe src="https://player.vimeo.com/video/648651746" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-###
+### 1 Update - Intro
 <iframe src="https://player.vimeo.com/video/648651929" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-###
+### 4 What else needs to be done
 <iframe src="https://player.vimeo.com/video/648651847" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-###
+### 2 Update packages
 <iframe src="https://player.vimeo.com/video/648651982" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-###
+### 3 Update Linting config
 <iframe src="https://player.vimeo.com/video/648652131" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-###
+### 4 Fix linting issues
 <iframe src="https://player.vimeo.com/video/648652371" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-###
+### 5 Update Nextjs
 <iframe src="https://player.vimeo.com/video/648652616" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-###
+ 
+### 6 More fixes
 <iframe src="https://player.vimeo.com/video/648652805" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
