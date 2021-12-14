@@ -189,55 +189,37 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### 7 Form validation
 <iframe src="https://player.vimeo.com/video/648650143" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-###
+### 1 Related blogs
+<iframe src="https://player.vimeo.com/video/648651114" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+### 2 Better way of fetching a blog
+<iframe src="https://player.vimeo.com/video/648651468" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-###
-
-
-###
-
-
-###
-
+### 3 Update Firebase security rules and envexample file
+<iframe src="https://player.vimeo.com/video/648651746" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ###
-
-
-###
-
+<iframe src="https://player.vimeo.com/video/648651929" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ###
-
-
-###
-
+<iframe src="https://player.vimeo.com/video/648651847" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ###
-
-
-###
-
+<iframe src="https://player.vimeo.com/video/648651982" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ###
-
-
-###
-
+<iframe src="https://player.vimeo.com/video/648652131" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ###
-
-
-###
-
+<iframe src="https://player.vimeo.com/video/648652371" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ###
-
+<iframe src="https://player.vimeo.com/video/648652616" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ###
+<iframe src="https://player.vimeo.com/video/648652805" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
-###z
 
 ### Markdown
 
