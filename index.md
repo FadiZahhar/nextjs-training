@@ -42,26 +42,26 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### 8 Bulma continue
 <iframe src="https://player.vimeo.com/video/648562215" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-###
+### 1 _appjs component
+<iframe src="https://player.vimeo.com/video/648562299" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+### 2 Page component
+<iframe src="https://player.vimeo.com/video/648562438" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-###
+### 3 Populate Head
+<iframe src="https://player.vimeo.com/video/648562550" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+### 4 Working on the navigation
+<iframe src="https://player.vimeo.com/video/648562645" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-###
+### 5 Footer and header with style
+<iframe src="https://player.vimeo.com/video/648562724" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+### 6 Dynamic title
+<iframe src="https://player.vimeo.com/video/648562888" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-###
-
-
-###
-
-
-###
-
-
-###
-
+### 7 Sticky footer
+<iframe src="https://player.vimeo.com/video/648562902" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ###
 
